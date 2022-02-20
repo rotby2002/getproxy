@@ -26,4 +26,4 @@ Download source code file and UNZIP File
 ![Screenshot (64)](https://user-images.githubusercontent.com/93322212/153748858-6cf50864-142f-42b8-b926-210327dfab8a.png?raw=true)
 ![Screenshot (65)](https://user-images.githubusercontent.com/93322212/153748862-06343e69-cfbb-4d6a-b559-df96f5791f37.png?raw=true)
 
-     Sau khi các bạn có kết quả như thế này là thành công rồi nhé, để lấy file proxy thì các bạn hãy vào thư mục OUTPUT là sẽ thấy file proxy
+Sau khi các bạn có kết quả như thế này là thành công rồi nhé, để lấy file proxy thì các bạn hãy vào thư mục OUTPUT là sẽ thấy file proxy
