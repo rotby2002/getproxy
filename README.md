@@ -1,3 +1,8 @@
+Sau khi các bạn tải xong thì các bạn giải nén tệp và mở CMD trên máy rồi trỏ đến thư mục vừa giải nén và nhập lệnh
+
+`pip install -r requirements.txt`
+
+`python gp.py`
 # INSTALL FOR LINUX
 
 `git clone https://github.com/sonvan1811/getproxy.git`
